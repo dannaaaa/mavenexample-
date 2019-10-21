@@ -4,7 +4,7 @@ import java.util.Collection;
 import java.util.HashMap;
 import java.util.Map;
 
-// cannot have a duplicate in a set 
+// cannot have a duplicate in a set
 public class ExampleMaps {
 
     private Map<Integer, String> studentsInClass = new HashMap<>();
@@ -27,7 +27,6 @@ public class ExampleMaps {
         }
 
         studentsInClass.keySet();
-        studentsInClass.
     }
 
 }
